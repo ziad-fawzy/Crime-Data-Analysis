@@ -168,5 +168,5 @@ git clone https://github.com/ziad-fawzy/Crime-Data-Analysis.git
 
 ## 👤 Author
 
-**Ziad Fawzy**  
+**Mohamed Fawzy**  
 Python Data Analysis — Final Project
