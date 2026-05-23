@@ -147,7 +147,7 @@ Analyzed the gender distribution of crime victims (excluding Unknown values).
 git clone https://github.com/ziad-fawzy/Crime-Data-Analysis.git
 ```
 
-2. Open `Crimes.ipynb` in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook
+2. Open `Crimes.ipynb` in [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1r_0iHVN_R4Bq8H4J0a8t8ZCR5R-WcOR2?usp=sharing)) or Jupyter Notebook
 
 3. Upload the dataset file `crimes.csv` to `/content/`
 
